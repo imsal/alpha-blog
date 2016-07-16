@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+li#error-message{
+    color: red;
+    list-style-type: none;
+}
+
+h4#error-message{
+    color: red;
+}
